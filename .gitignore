@@ -1,0 +1,48 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS resource fork files
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# Node modules
+data/npm-debug.log*
+node_modules/
+npm-debug.log*
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+dist/
+coverage/
+
+# TypeScript
+*.tsbuildinfo
+
+# VSCode settings
+.vscode/
+
+# IDE settings
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+
+# Temporary files
+*.tmp
+*.temp
+
+# Build output
+build/
+out/
